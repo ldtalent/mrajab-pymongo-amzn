@@ -13,6 +13,8 @@ How to setup and run the application
 
 .Clone the repo on your local machine
 
+Import Scraper.py from our Previous Project (https://github.com/learningdollars/mrajab-amzn-price-tracker/blob/master/scraper.py) and Clone it to your local machine
+
 .Copy the project files into your Visual studio code project directory.
 
 .Open the project.
